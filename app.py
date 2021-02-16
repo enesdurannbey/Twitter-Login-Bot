@@ -22,4 +22,4 @@ try:
     login_button.click()
 #error printing
 except Exception as e:
-    print("Some Error right here \n ",e)
+    print(" Error  \n ",e)
