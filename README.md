@@ -15,7 +15,7 @@ You can examine the code, if you can't trust. <br/>
 
 **Kullanım** <br/>
 -app.py dosyasını çalıştırın. <br/>
--Açılan komut satırında kulanıcı adı ve şifrenizi girin <br/>
+-Açılan komut satırında kulanıcı adı ve şifrenizi girin. <br/>
 
 **Uyarı** <br/>
 -Eğer selenium için tarayıcı sürücüsünü yüklemediyseniz, Bot çalışmaz. <br/>
